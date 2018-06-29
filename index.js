@@ -13,5 +13,5 @@ function divide(a, b) {
 var number = 10
 function inc(n) {
   console.log(n)
-  number += (a + 1)
+  number += (n + 1)
 }
