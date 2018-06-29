@@ -12,6 +12,5 @@ function divide(a, b) {
 }
 var number = 251
 function inc(n) {
-  console.log(n)
   number += (n + 1)
 }
