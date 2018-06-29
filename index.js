@@ -23,6 +23,6 @@ function makeInt(a) {
 }
 function preserveDecimal(n) {
   return parseFloat("2.222", 10);
-  else return parseInt("sldkjflksjf", 10);
+  console.log(parseInt "")
 }
 }
