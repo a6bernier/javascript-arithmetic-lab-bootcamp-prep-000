@@ -10,6 +10,7 @@ function multiply(a, b) {
 function divide(a, b) {
   return (a / b)
 }
-function inc() {
+function inc(a) {
+  console.log(a)
   number += (a + 1)
 }
