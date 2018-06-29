@@ -21,6 +21,6 @@ function dec(a) {
 function makeInt(a) {
   return parseInt(a, 10)
 }
-function preserveDecimal(n) {
-  return parseFloat(2.222, 10); expect ()
+function preserveDecimal(a) {
+  return parseFloat(a, 10);
 }
