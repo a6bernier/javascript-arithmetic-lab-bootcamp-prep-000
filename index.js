@@ -14,3 +14,7 @@ var number = 5
 function inc(a) {
   return (a + 1)
 }
+var number = 5
+function dec(a) {
+  return (a - 1)
+}
