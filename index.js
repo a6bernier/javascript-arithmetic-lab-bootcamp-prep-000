@@ -11,6 +11,6 @@ function divide(a, b) {
   return (a / b)
 }
 var number = 10
-function inc(a) {
+function inc() {
   number += (a + 1)
 }
