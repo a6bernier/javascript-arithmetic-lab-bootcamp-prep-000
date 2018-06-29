@@ -12,5 +12,6 @@ function divide(a, b) {
 }
 var number = 10
 function inc() {
+  console.log(a)
   number += (a + 1)
 }
