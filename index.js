@@ -10,7 +10,7 @@ function multiply(a, b) {
 function divide(a, b) {
   return (a / b)
 }
-var number = 251
+var number = n
 function inc(n) {
   number += (n + 1)
 }
