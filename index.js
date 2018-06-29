@@ -12,5 +12,5 @@ function divide(a, b) {
 }
 var number = 5
 function inc(a) {
-  number = (a + 1)
+  return (a + 1)
 }
