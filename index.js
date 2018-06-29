@@ -10,7 +10,6 @@ function multiply(a, b) {
 function divide(a, b) {
   return (a / b)
 }
-var number = number
-function inc(n) {
+function add(n) {
   number += (n + 1)
 }
