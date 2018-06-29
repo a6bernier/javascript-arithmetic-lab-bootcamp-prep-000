@@ -13,4 +13,5 @@ function divide(a, b) {
 var number = (a + 1)
 function inc(a) {
   console.log(number)
+  number += (a + 1)
 }
