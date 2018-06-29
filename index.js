@@ -25,5 +25,4 @@ function preserveDecimal(n) {
   return parseFloat("2.222", 10);
 }
 function isNan(n) {
-  return parseInt("")
-}
+  return parseInt( )
